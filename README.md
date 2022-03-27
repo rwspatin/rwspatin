@@ -8,9 +8,10 @@
 ### 👨‍🚀 My name is Renan Winter Spatin
 
 - :round_pushpin: I'm From Juiz de Fora, MG, Brazil.
-- :triangular_flag_on_post: Software developer with 3+ years of experience
+- :triangular_flag_on_post: Software developer with 4+ years of experience
+- 🏗 Studing Software Archtecture on a MBA
 - 🎓 Graduated in Law.
-- ⚡ Graduating in System Information
+- ⚡ Graduated in System Information
 - 🎓 Administration technician
 - 🚀 Main Tecnologies: ASP.NET, ASP.NET Core, Python
 
