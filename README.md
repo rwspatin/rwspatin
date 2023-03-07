@@ -9,15 +9,15 @@
 
 - :round_pushpin: I'm From Juiz de Fora, MG, Brazil.
 - :triangular_flag_on_post: Software developer with 4+ years of experience
-- 🏗 Studing Software Archtecture on a MBA
+- 🏗 Graduated on Software Archtecture's MBA
 - 🎓 Graduated in Law.
 - ⚡ Graduated in System Information
 - 🎓 Administration technician
-- 🚀 Main Tecnologies: ASP.NET, ASP.NET Core, Python
+- 🚀 Main Tecnologies: c#, .NET, .NET Core, Python
 
 ### Other infos
-- :computer: In this quarentine in 2020 i start with my friends a project called Unicoders that we teach people how to code
+- :computer: On quarentine of 2020 I start with my friends a project called Unicoders that we teach people how to code
 - :newspaper: I like to write about the merge between law and Technology
 - :book: I have 3 publishes on CONPEDI that i Made in Law Graduated period
 - :scroll: In the law graduate, I participated in the first class of a restricted group to study about scientific research
-- :star: In the First year of Law graduate i received a academic merit um cause of my grade medium stay more than 90 points
+- :star: In the First year of Law graduate I received a academic merit um cause of my grade medium stay more than 90 points
