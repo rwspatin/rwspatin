@@ -1,8 +1,9 @@
 # Renan Winter Spatin
 
-**Senior Software Engineer · Tech Lead** — distributed financial systems on .NET and cloud.
+**Software Engineer · Tech Lead · LL.B.** — I build systems from zero to production, in whatever stack the problem needs, and help institutions do more through technology.
 
 [![Site](https://img.shields.io/badge/-renanspatin.com-0D0B09?style=for-the-badge&logoColor=white)](https://renanspatin.com)
+[![X](https://img.shields.io/badge/-@rwspatin-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/rwspatin)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renan-spatin/)
 [![Instagram](https://img.shields.io/badge/-@rwspatin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rwspatin)
 [![Email](https://img.shields.io/badge/-rwspatin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rwspatin@gmail.com)
@@ -12,10 +13,40 @@
 ## About
 
 - 🇧🇷 Based in Juiz de Fora, MG — Brazil (GMT-3)
-- 🧠 **7+ years** shipping software in production — fintech, banking, legal tech
-- 🛠 Core stack: **C# / .NET (5–9)**, **ASP.NET Core**, **TypeScript**, **React**, **Next.js**, **Azure**, **AWS**, **Kubernetes**, **PostgreSQL**
-- 📌 Currently **Technical Lead** at [Transfero](https://transfero.com) (Crypto Engineering)
-- 📘 Previously **BTG Pactual** (Offshore Onboarding, Tech Lead 2022–2023) and **Thomson Reuters** (DataCloud · legal tech)
+- 🧠 **8+ years** shipping software in production — web, mobile, backend, cloud
+- 🛠 Stack-agnostic; most at home with **C# / .NET**, **TypeScript**, **React / Next.js**, **PostgreSQL**, **Azure / AWS**
+- ⚖️ Law degree — I read rules, processes and responsibilities before I write code
+
+---
+
+## Technology for institutions
+
+Volunteer work for communities and non-profits I care about:
+
+- **[comexaltai.com](https://comexaltai.com)** — platform for the Catholic community I belong to. Web + hybrid mobile + .NET backend.
+- **[aapi.ong](https://aapi.ong)** — institutional site and news admin for AAPI-SJ, supporting expectant mothers, children and families.
+- **[gokai.ong](https://gokai.ong)** — platform for the sports association where I serve as vice-president. Next.js + Supabase, serverless.
+
+## Open source
+
+Tools for working with AI coding agents:
+
+- **[bpmn-skill](https://github.com/rwspatin/bpmn-skill)** — Claude Code skill that maps an app's business flows from code to validated BPMN (Mermaid DSL, SVG, BPMN 2.0 XML).
+- **[agentic-media-kit](https://github.com/rwspatin/agentic-media-kit)** — let your coding agent show its work: UI capture, Remotion Reels, private viewer on Railway.
+- **[mcp_dispatcher](https://github.com/rwspatin/mcp_dispatcher)** — routes to the right MCP servers based on the project you're in.
+
+## Products
+
+- **[agapeon.io](https://agapeon.io)** — SaaS product; technical co-founder and solo engineer.
+
+---
+
+## Writing
+
+- 📝 [Blog](https://renanspatin.com/blog) — notes on systems, processes and building with AI agents
+- 📌 [/now](https://renanspatin.com/now) — what I'm working on this month
+- 🛠 [/uses](https://renanspatin.com/uses) — editor, OS, tooling
+- 📷 [@rwinterlens](https://instagram.com/rwinterlens) — photography
 
 ---
 
@@ -26,28 +57,9 @@
 - 💾 B.Sc. Information Systems
 - ⚖️ LL.B. (Bachelor of Laws)
 
----
-
-## Independent projects
-
-- **[comexaltai.com](https://comexaltai.com)** — Catholic community platform. React 19 + Capacitor + ASP.NET Core 9 + PostgreSQL 16.
-- **[agapeon.io](https://agapeon.io)** — SaaS product, technical co-founder and solo engineer. Stripe billing + Google GenAI.
-- **[gokai.ong](https://gokai.ong)** — Non-profit platform. Next.js 16 + Supabase SSR, serverless.
-
----
-
-## Writing & current focus
-
-- 📝 [Blog](https://renanspatin.com/blog) — notes on architecture, systems, and operations
-- 📌 [/now](https://renanspatin.com/now) — what I'm working on this month
-- 🛠 [/uses](https://renanspatin.com/uses) — editor, OS, tooling
-- 📷 [@rwinterlens](https://instagram.com/rwinterlens) — photography
-
----
-
 ## Background
 
+- 🏦 Track record in fintech, banking and legal tech (BTG Pactual, Thomson Reuters, crypto engineering)
 - 🚀 Co-founded **Unicoders** (2020) — mentoring developers and teaching programming
 - 📝 Author of 3 academic papers published by **CONPEDI**
-- 🏅 **Top Professional 2022** at BTG Pactual (Far Exceed — top 30% of the company)
-- 🏅 **Top Professional 2019 & 2020** at Thomson Reuters
+- 🏅 Top Professional at BTG Pactual (2022) and Thomson Reuters (2019 & 2020)
